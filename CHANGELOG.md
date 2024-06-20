@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.19.1](https://github.com/starship/starship/compare/v1.19.0...v1.19.1) (2024-06-20)
+
+
+### Bug Fixes
+
+* **direnv:** replace nonexistent "orange" color with "bright-yellow" ([#5969](https://github.com/starship/starship/issues/5969)) ([478d5cc](https://github.com/starship/starship/commit/478d5cccb6f7f4622dd681756cf004ba92c98607))
+* improve non-msvc windows support by bumping stable dependencies ([#5989](https://github.com/starship/starship/issues/5989)) ([50a6b84](https://github.com/starship/starship/commit/50a6b846045899c88d95b063a6b939a6dcb72a5c))
+* **k8s:** don't trigger if scan config is set but env vars are not ([#5979](https://github.com/starship/starship/issues/5979)) ([8c75822](https://github.com/starship/starship/commit/8c75822d4380e020ebd289a4ef06cd4d31ee5196))
+
 ## [1.19.0](https://github.com/starship/starship/compare/v1.18.2...v1.19.0) (2024-05-15)
 
 
